@@ -10,3 +10,4 @@ username: test
 email: test@site.com
 password: is_this_strong_enough
 
+All of the books app models have been registered in the admin
